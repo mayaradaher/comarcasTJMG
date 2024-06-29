@@ -20,6 +20,7 @@ Imports:
     purrr,
     readxl,
     stringr,
+    stringi,
     tidyr
 URL: https://github.com/rdornas/comarcasTJMG
 BugReports: https://github.com/rdornas/comarcasTJMG/issues
